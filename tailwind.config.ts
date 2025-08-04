@@ -61,6 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				space: {
+					'deep-blue': '#0A0A23',
+					'cosmic-purple': '#1E1E3F',
+					'stellar-gold': '#FFD700',
+					'starlight-white': '#FFFFFF'
 				}
 			},
 			borderRadius: {
